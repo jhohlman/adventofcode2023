@@ -1,0 +1,15 @@
+C:\code\adventofcode2023\Aoc.2023.Service\bin\Debug\net8.0\Aoc.2023.Service.exe
+C:\code\adventofcode2023\Aoc.2023.Service\bin\Debug\net8.0\Aoc.2023.Service.deps.json
+C:\code\adventofcode2023\Aoc.2023.Service\bin\Debug\net8.0\Aoc.2023.Service.runtimeconfig.json
+C:\code\adventofcode2023\Aoc.2023.Service\bin\Debug\net8.0\Aoc.2023.Service.dll
+C:\code\adventofcode2023\Aoc.2023.Service\bin\Debug\net8.0\Aoc.2023.Service.pdb
+C:\code\adventofcode2023\Aoc.2023.Service\obj\Debug\net8.0\Aoc.2023.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\adventofcode2023\Aoc.2023.Service\obj\Debug\net8.0\Aoc.2023.Service.AssemblyInfoInputs.cache
+C:\code\adventofcode2023\Aoc.2023.Service\obj\Debug\net8.0\Aoc.2023.Service.AssemblyInfo.cs
+C:\code\adventofcode2023\Aoc.2023.Service\obj\Debug\net8.0\Aoc.2023.Service.csproj.CoreCompileInputs.cache
+C:\code\adventofcode2023\Aoc.2023.Service\obj\Debug\net8.0\Aoc.2023.Service.sourcelink.json
+C:\code\adventofcode2023\Aoc.2023.Service\obj\Debug\net8.0\Aoc.2023.Service.dll
+C:\code\adventofcode2023\Aoc.2023.Service\obj\Debug\net8.0\refint\Aoc.2023.Service.dll
+C:\code\adventofcode2023\Aoc.2023.Service\obj\Debug\net8.0\Aoc.2023.Service.pdb
+C:\code\adventofcode2023\Aoc.2023.Service\obj\Debug\net8.0\Aoc.2023.Service.genruntimeconfig.cache
+C:\code\adventofcode2023\Aoc.2023.Service\obj\Debug\net8.0\ref\Aoc.2023.Service.dll
